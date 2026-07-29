@@ -31,7 +31,7 @@
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS",
-      "dataset": "sink" // Override with DEPLOY_ANALYTICS_DATASET (default: sink). Keep in sync with NUXT_DATASET at runtime.
+      "dataset": "uoo" // Override with DEPLOY_ANALYTICS_DATASET (default: sink). Keep in sync with NUXT_DATASET at runtime.
     }
   ],
   "kv_namespaces": [
